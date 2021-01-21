@@ -1,3 +1,1 @@
-"use strict";
-
-alert("Hello sister!"); 
+console.log("everything works... ")
